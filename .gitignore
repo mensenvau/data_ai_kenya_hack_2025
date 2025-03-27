@@ -1,0 +1,7 @@
+# file
+.env
+.DS_Store
+chroma.log
+
+# folder
+venv
