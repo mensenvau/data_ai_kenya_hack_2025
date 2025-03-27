@@ -59,8 +59,10 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
    - Create a `.env` file and add your **Azure OpenAI** and **ChromaDB** credentials.
 
 5. **Run the file processing script:**
+
    ```bash
    python file_processing.py
+   python chat_system.py
    ```
 
 ## 🚀 Usage
@@ -73,7 +75,3 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 ## 📧 Contact
 
 For any inquiries, reach out to: **📩 balkibumen@gmail.com**
-
----
-
-**👨‍💻 Project Maintainer:** Balkibumen
