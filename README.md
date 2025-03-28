@@ -1,4 +1,4 @@
-# 🚀 Data AI Kenya Hack 2025
+# 🚀 Data Openai RAG Demo
 
 ## 📝 Overview
 
@@ -17,7 +17,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 ## 📂 Folder Structure
 
 ```
-📦 data_ai_kenya_hack_2025
+📦 data_openai_rag_demo
 ├── 📂 chroma_db        # Stores vector embeddings
 ├── 📂 documents        # Contains business/client documents
 ├── 📂 venv             # Virtual environment for dependencies
@@ -42,8 +42,8 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/data_ai_kenya_hack_2025.git
-   cd data_ai_kenya_hack_2025
+   git clone https://github.com/your-repo/data_openai_rag_demo.git
+   cd data_openai_rag_demo
    ```
 2. **Create and activate a virtual environment:**
    ```bash
