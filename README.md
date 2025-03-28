@@ -1,4 +1,4 @@
-# 🚀 Data Openai RAG Demo
+# 🚀 Data OpenAI RAG Demo
 
 ## 📝 Overview
 
